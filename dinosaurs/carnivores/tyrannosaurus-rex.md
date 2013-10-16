@@ -10,7 +10,7 @@ category: carnivore
 source: http://en.wikipedia.org/wiki/Velociraptor
 ---
 
-![Tyrannosaurus Rex skeleton](img/tyrannosaurus-rex-skeleton.jpg)
+![Tyrannosaurus Rex skeleton](img/tyrannosaurus-rex-skeleton.png)
 
 *Velociraptor* is a genus of dromaeosaurid theropod dinosaur that lived approximately 75 to 71 million years ago during the later part of the Cretaceous Period, with species discovered in Mongolia, China.
 
